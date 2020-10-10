@@ -1,0 +1,40 @@
+@media only screen and (max-width: 992px) {
+	
+	
+	* {
+		margin: 0;
+		padding: 0;
+		width: 100%;
+  	}
+
+	p {
+		padding: 0;
+		margin: 0;
+	}
+
+	.header {
+		width: 100%;
+	}
+	
+	.padding {
+		width: 100%
+	}
+
+	.img_block3 {
+		text-align: center;
+	}
+
+	.item__wrapper {
+		flex-direction: column;
+
+	}
+
+	.hamburger-menu {
+		display: block;
+
+	}
+
+
+
+
+}
